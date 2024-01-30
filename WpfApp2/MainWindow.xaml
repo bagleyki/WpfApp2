@@ -10,6 +10,9 @@
         <TextBlock x:Name="OGlettering" HorizontalAlignment="Left" Height="45" Margin="60,45,0,0" TextWrapping="Wrap" Text="Input Text" VerticalAlignment="Top" Width="155" FontSize="16"/>
         <TextBlock HorizontalAlignment="Left" Height="40" Margin="60,240,0,0" TextWrapping="Wrap" Text="Output text" VerticalAlignment="Top" Width="170" FontSize="16"/>
         <TextBlock HorizontalAlignment="Left" Height="40" Margin="380,50,0,0" TextWrapping="Wrap" Text="Number Input" VerticalAlignment="Top" Width="225"/>
+        <TextBox x:Name="MessageInput" HorizontalAlignment="Left" Height="35" Margin="90,90,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="125"/>
+        <TextBox x:Name="numeralInput" HorizontalAlignment="Left" Height="40" Margin="430,85,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="150"/>
+        <TextBox x:Name="txtOutput" HorizontalAlignment="Left" Height="50" Margin="230,305,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="295"/>
 
     </Grid>
 </Window>
